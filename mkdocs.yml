@@ -1,9 +1,8 @@
 # Sitenizin adını ve açıklamasını belirleyin.
-site_name: Eva Yardım Sayfası
-site_description: Eva uygulamasının kullanım kılavuzu ve sıkça sorulan sorular.
+site_name: Eva AI Help
+site_description: Eva AI Help
 
 # Sitenizin temasını ve rengini seçin.
-# "material" teması modern ve kullanışlı bir arayüz sunar.
 theme:
   name: material
   palette:
@@ -11,32 +10,38 @@ theme:
     accent: deep orange
   features:
     - navigation.tabs
+    - navigation.sections
     - search.highlight
 
 # Navigasyon (menü) yapınızı oluşturun.
 # Sayfalarınızın sırasını ve hiyerarşisini burada düzenleyebilirsiniz.
 nav:
-  - Giriş Sayfası: 'index.md'
-  - Kullanım Kılavuzu:
-    - 'Hesap Oluşturma': 'kullanim-kilavuzu/hesap-olusturma.md'
-    - 'Profil Düzenleme': 'kullanim-kilavuzu/profil-duzenleme.md'
-    - 'Ödeme Yapma': 'kullanim-kilavuzu/odeme-yapma.md'
-  - Sıkça Sorulan Sorular (SSS): 'sss.md'
-  - İletişim: 'iletisim.md'
-
-# Sayfaların başlıklarını otomatik olarak belirle.
-# Eğer Markdown dosyasında başlıklar yoksa, dosya adını kullanır.
-# Bu ayar genellikle gerekmez ama bilmekte fayda var.
-# use_directory_urls: false
+  - Welcome: 'index.md'
+  - Getting Started:
+    - 'Connecting Your Amazon Store': 'getting-started/connecting-your-amazon-store.md'
+    - 'Connecting Your Ad Account': 'getting-started/connecting-your-ad-account.md'
+  - Performance & Goal Setting:
+    - 'Trend Analytics': 'performance-analysis-setting-goals/trend-analytics.md'
+    - 'Trend Analytics Product Details': 'performance-analysis-setting-goals/trend-analytics-product-details.md'
+  - Ad Strategies:
+    - 'Setting Store-Level Goals': 'ad-strategies/store-level-goals.md'
+    - 'Setting Product-Level Goals': 'ad-strategies/product-level-goals.md'
+    - 'Campaign-Level Goals': 'ad-strategies/campaign-level-goals.md'
+  - In-Depth Views:
+    - 'Campaign View': 'in-depth-views/campaign-view.md'
+    - 'Target View': 'in-depth-views/target-view.md'
+  - Reports:
+    - 'Performance Trends Report': 'reports/performance-trends-report.md'
+    - 'File-Based Reports': 'reports/file-based-reports.md'
+    - 'Audit Report': 'reports/audit-report.md'
+    - 'AI Decisions': 'reports/ai-decisions.md'
+  - Subscription Management:
+    - 'Managing Your Plan': 'scaleads-subscription/managing-your-plan.md'
+    - 'Dedicated Support': 'scaleads-subscription/dedicated-support.md'
 
 # Ekstralar ve eklentiler.
-# Markdown'ın standart özelliklerine eklemeler yapmanızı sağlar.
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight
-
-# Projenizin GitHub veya GitLab deposu bağlantısı.
-# Sitenizin üst kısmında bir GitHub ikonu görünmesini sağlar.
-repo_url: https://github.com/kullanici_adiniz/yardim-sayfasi

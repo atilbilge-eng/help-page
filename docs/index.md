@@ -16,13 +16,13 @@ Before you can analyze your performance and set goals, you need to connect your 
 
 Once these connections are complete, your dashboard will come to life with your live data.
 
-![A screenshot of the dashboard with Amazon and Ad accounts connected.](images/getting-started/dashboard-connected.png)
+![A screenshot of the link account wizard.](images/getting-started/link-account.png)
 
 Read more: [Connecting Your Amazon Store](getting-started/connecting-your-amazon-store.md) and [Connecting Your Ad Account](getting-started/connecting-your-ad-account.md).
 
 #### 2. Analyze Performance & Get a Free Audit
 With your accounts connected, the **Trend Analytics** page becomes your central hub for understanding your performance. Here, you can review your key metrics, identify trends, and see which products are performing best.
-    
+
 Eva also offers a free PPC Audit Report to quickly assess the health of your advertising strategy. This report gives you an overall score and highlights key opportunities for improvement, such as wasted ad spend or critical performance errors, so you know exactly where to focus your efforts.
 
 ![A screenshot of the Trend Analytics page showing charts and key metrics.](images/performance-analysis-setting-goals/trend-analytics-overview.png)

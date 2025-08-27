@@ -1,1 +1,42 @@
-site_name: My Docs
+# Sitenizin adını ve açıklamasını belirleyin.
+site_name: Eva Yardım Sayfası
+site_description: Eva uygulamasının kullanım kılavuzu ve sıkça sorulan sorular.
+
+# Sitenizin temasını ve rengini seçin.
+# "material" teması modern ve kullanışlı bir arayüz sunar.
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - search.highlight
+
+# Navigasyon (menü) yapınızı oluşturun.
+# Sayfalarınızın sırasını ve hiyerarşisini burada düzenleyebilirsiniz.
+nav:
+  - Giriş Sayfası: 'index.md'
+  - Kullanım Kılavuzu:
+    - 'Hesap Oluşturma': 'kullanim-kilavuzu/hesap-olusturma.md'
+    - 'Profil Düzenleme': 'kullanim-kilavuzu/profil-duzenleme.md'
+    - 'Ödeme Yapma': 'kullanim-kilavuzu/odeme-yapma.md'
+  - Sıkça Sorulan Sorular (SSS): 'sss.md'
+  - İletişim: 'iletisim.md'
+
+# Sayfaların başlıklarını otomatik olarak belirle.
+# Eğer Markdown dosyasında başlıklar yoksa, dosya adını kullanır.
+# Bu ayar genellikle gerekmez ama bilmekte fayda var.
+# use_directory_urls: false
+
+# Ekstralar ve eklentiler.
+# Markdown'ın standart özelliklerine eklemeler yapmanızı sağlar.
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+# Projenizin GitHub veya GitLab deposu bağlantısı.
+# Sitenizin üst kısmında bir GitHub ikonu görünmesini sağlar.
+repo_url: https://github.com/kullanici_adiniz/yardim-sayfasi

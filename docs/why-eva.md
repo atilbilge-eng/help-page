@@ -13,8 +13,12 @@ Your time is valuable. Eva helps you spend less of it on tedious tasks and more 
 * **Intuitive Goal Setting:** You can set a broad strategy for your entire store or create specific goals for individual products or campaigns. Eva's AI will then automatically optimize your bids to hit those targets. This gives you granular control without the constant manual adjustments.
 * **Smart Automation:** Automate key tasks like pausing ads for out-of-stock products or creating new campaigns based on your own custom rules. This frees you from repetitive tasks and ensures your campaigns are always running at peak efficiency.
 
-![A visual representation of Eva's unified dashboard, showing a logical flow from a high-level view to granular campaign and product details.](https://help.eva.guru/wp-content/uploads/sites/2/2025/06/eva-demo-vid.mp4)
-
+<div style="width: 100%; max-width: 800px; margin: auto;">
+<video controls autoplay loop muted playsinline style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<source src="https://help.eva.guru/wp-content/uploads/sites/2/2025/06/eva-demo-vid.mp4" type="video/mp4">
+Tarayıcınız video etiketini desteklemiyor.
+</video>
+</div>
 ### Unlock Data-Driven Decisions for Smarter Spending
 
 Don't just look at your data—act on it. Our platform gives you the insights you need to make confident decisions that drive real growth.

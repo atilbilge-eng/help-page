@@ -1,28 +1,15 @@
-# Trend Analytics Help Page
+# Trend Analytics
 
 Welcome to the **Trend Analytics** page! This tool provides a detailed, time-based view of your campaign performance, allowing you to track key metrics, adjust your goals, and optimize your advertising strategy.
 
 ## Key Metrics
 
-When you access the **Trend Analytics** page, you will see a variety of key metrics displayed, which are critical to understanding your ad campaign performance such as:
+When you access the **Trend Analytics** page, you will see a variety of key metrics displayed, which are critical to understanding your ad organic and advertising performance such as:
 
-1. **ACoS (Advertising Cost of Sales)**
-2. **TACoS (Total Advertising Cost of Sales)**
-3. **Impressions**
-4. **Clicks**
-5. **Sales**
+1. **ACoS (Advertising Cost of Sales)**, **TACoS (Total Advertising Cost of Sales)**, **Total Sales**  **Ad Driven Sales**, **Total Cost**, **Advertising Cost**
 
-In addition to these core metrics, the following are available:
 
-- **CTR (Click-Through Rate)**
-- **CVR (Conversion Rate)**
-- **Orders**
-- **Cost**
-- **CPC (Cost per Click)**
-- **ROAS (Return on Ad Spend)**
-- **AOV (Average Order Value)**
-
-These metrics are displayed in tabular format and also used for filtering the data displayed on the charts. You can filter your campaigns, time ranges, and performance metrics to get insights tailored to your needs. To view a full list of all metrics and definitions, refer to the [Trend Analytics Metrics Details](performance-analysis-setting-goals/trend-analytics-metrics-details.md).
+These metrics are displayed in tabular format and also used for filtering the data displayed on the charts. You can filter your campaigns, time ranges, and performance metrics to get insights tailored to your needs. To view a full list of all metrics and definitions, refer to the [Trend Analytics Metrics Details](trend-analytics-metrics-details.md).
 
 ## Analyzing Trends
 

@@ -16,6 +16,7 @@ Welcome to Eva! Follow the steps below to create your account and begin your jou
 
 - You will receive a verification email with the subject “Confirm Your Email Address.” Click on the "Confirm My Email Address" button in the email to complete the verification.
    ![Screenshot for Verification Email](../images/getting-started/verify-email.png)  <!-- Screenshot for verification email -->
+**Congratulations!** Your account has been successfully created, and you are now ready to connect your stores to the Eva platform. With your account set up, you're all set to optimize your campaigns.
 
 ## Step 3: Log In To Your Eva Account
 - Once your email is confirmed, you will be redirected to a login page.
@@ -32,7 +33,7 @@ Welcome to Eva! Follow the steps below to create your account and begin your jou
 
    <!--![Screenshot for Eva Website Login](eva-website-login-screenshot.png)  <!-- Screenshot for Eva Website login -->
 
-**Congratulations!** Your account has been successfully created, and you are now ready to connect your stores to the Eva platform. With your account set up, you're all set to optimize your campaigns.
+
 
 ## Next Steps
 

@@ -3,7 +3,8 @@
 Welcome to Eva! Follow the steps below to create your account and begin your journey with us.
 
 ## Step 1: Create An Eva Account
-1. Click the “Create An Eva Account” button to initiate the process. This will open in a new window. [Create An Eva Account](https://iapp.eva.guru/welcome){:target="_blank"}
+1. Click the <a href="https://iapp.eva.guru/welcome" target="_blank" rel="noopener noreferrer">"Create An Eva Account"</a> link to initiate the process. This will open in a new window.
+
 
 2. On the registration page, fill in the required information and click "Create Eva Account" to get started. 
 

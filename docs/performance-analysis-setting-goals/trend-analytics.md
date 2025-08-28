@@ -1,93 +1,93 @@
 # Trend Analytics Help Page
 
-Welcome to the **Trend Analytics** page, located under the **Performance & Goal Setting** menu. This page is designed to provide you with valuable insights into your advertising performance on Amazon and help you optimize your campaigns effectively. You can track trends, analyze data, and set specific goals for your campaigns.
+Welcome to the **Trend Analytics** page! This tool provides a detailed, time-based view of your campaign performance, allowing you to track key metrics, adjust your goals, and optimize your advertising strategy.
 
-This guide will walk you through the different actions you can take on the **Trend Analytics** page, organized by user journey. Let's explore the possibilities!
+## Key Metrics
 
-## User Journey
+When you access the **Trend Analytics** page, you will see a variety of key metrics displayed, which are critical to understanding your ad campaign performance such as:
 
-### 1. **Overview of Performance**
-When you first land on the **Trend Analytics** page, you will see an overview of your campaign performance, broken down by key metrics. These include:
+1. **ACoS (Advertising Cost of Sales)**
+2. **TACoS (Total Advertising Cost of Sales)**
+3. **Impressions**
+4. **Clicks**
+5. **Sales**
 
-- **ACoS (Advertising Cost of Sales)**
-- **TACoS (Total Advertising Cost of Sales)**
-- **Impressions**
-- **Clicks**
-- **Sales**
+In addition to these core metrics, the following are available:
+
 - **CTR (Click-Through Rate)**
 - **CVR (Conversion Rate)**
+- **Orders**
+- **Cost**
+- **CPC (Cost per Click)**
+- **ROAS (Return on Ad Spend)**
+- **AOV (Average Order Value)**
 
-These metrics are presented in a time-series format, allowing you to analyze the performance of your ads over time.
+These metrics are displayed in tabular format and also used for filtering the data displayed on the charts. You can filter your campaigns, time ranges, and performance metrics to get insights tailored to your needs. To view a full list of all metrics and definitions, refer to the [Trend Analytics Metrics Details](performance-analysis-setting-goals/trend-analytics-metrics-details.md).
 
-You can filter your data by date range to view performance across different periods and adjust the granularity of the data for a more detailed analysis.
+## Analyzing Trends
 
-For more information on how to read and interpret these metrics, see the [Trend Analytics Product Details](performance-analysis-setting-goals/trend-analytics-product-details.md).
+**Trend Analytics** enables you to visualize your data across different timeframes:
 
-### 2. **Analyzing Trends Over Time**
-The **Trend Analytics** page allows you to analyze performance trends across different periods. You can visualize:
+- **Daily View**: View your performance by day, ideal for short-term analysis.
+- **Weekly View**: See aggregated data by week for broader trend analysis.
+- **Monthly View**: For long-term performance monitoring, view data grouped by month.
 
-- **Daily Performance:** View performance data on a daily basis.
-- **Weekly Performance:** See aggregated performance metrics for each week.
-- **Monthly Performance:** View long-term trends across months.
+This flexibility helps you track the performance of your campaigns over time and identify patterns or fluctuations in your advertising results.
 
-This feature helps you understand how your campaigns perform over time, identify seasonal patterns, and track your progress toward your goals.
+## Setting and Tracking Goals
 
-### 3. **Setting and Tracking Store-Level Goals**
-One of the key features of the **Trend Analytics** page is setting and tracking your **store-level goals**. This allows you to define specific targets for key metrics such as ACoS, TACoS, or sales volume. 
+### Store-Level Goals
 
-- **Set Goals:** You can establish store-level goals based on your overall advertising strategy.
-- **Monitor Progress:** Track how well your campaigns are performing against your set goals over time.
-  
-For detailed instructions on setting store-level goals, refer to [Setting Store-Level Goals](ad-strategies/store-level-goals.md).
+At the store level, **Trend Analytics** allows you to set overall advertising goals for your store, which could be based on metrics such as **ACoS** or **TACoS**. Once set, you can monitor your progress toward these goals directly on the page, making it easier to adjust strategies as necessary.
 
-### 4. **Customizing Product-Level Insights**
-In addition to store-level analysis, **Trend Analytics** also lets you drill down into product-level performance. By analyzing specific products, you can:
+- **Monitor progress** against store-level goals.
+- **Adjust targets** for specific campaigns based on performance.
 
-- **Track Product Performance:** See how each product is contributing to your overall sales and advertising spend.
-- **Identify High-Performing Products:** Focus your efforts on products that are yielding the best return on investment.
-  
-For a deeper dive into product-level analytics, visit the [Trend Analytics Product Details](performance-analysis-setting-goals/trend-analytics-product-details.md).
+For more on how to set and track store-level goals, refer to the [Setting Store-Level Goals](ad-strategies/store-level-goals.md).
 
-### 5. **Adjusting Bid Strategy Based on Performance Insights**
-With the data insights from **Trend Analytics**, you can make informed decisions about your **bid strategies**. Adjust your bids to optimize your **ACoS** and **TACoS**:
+### Product-Level Insights
 
-- **Optimize for Growth:** Increase your bids for products that show high conversion rates.
-- **Optimize for Profit:** Adjust bids for products with low ACoS to improve profitability.
+For more granular analysis, **Trend Analytics** also provides insights at the product level. You can track how individual products contribute to your store's overall ad performance. Key actions include:
 
-By analyzing the trends, you can identify the right strategy to adjust your campaigns for better performance.
+- **Tracking product performance** for better decision-making.
+- **Identifying high-performing products** that need more investment.
 
-### 6. **Advanced Filtering and Customization**
-To make your analysis more granular, you can use the advanced **filtering** options in **Trend Analytics**. These include:
+To learn more about product-level metrics, check out the [Trend Analytics Product Details](performance-analysis-setting-goals/trend-analytics-product-details.md).
 
-- **Performance Filters:** Filter by specific metrics such as CTR, CVR, and more.
-- **Date Range Filters:** Customize your date range to focus on specific periods.
-- **Target-Specific Filters:** Drill down to analyze performance by different targeting strategies.
+## Customizing Your Data View
 
-These filters allow you to tailor your analysis to meet your specific needs.
+You can fine-tune the way your data is displayed by using the **advanced filtering options**. Filters allow you to focus on specific campaigns, metrics, or date ranges. Use these to:
 
-### 7. **Exporting and Sharing Reports**
-You can export your **Trend Analytics** data for offline analysis or reporting. This feature is useful for creating regular performance reports or sharing insights with your team.
+- **Filter by metric** (e.g., **ACoS**, **CVR**).
+- **Adjust the time range** (e.g., **Last 7 Days**, **Last Month**).
+- **Focus on specific targets** or products.
 
-To export data, click the **Export** button at the top of the page, and choose your preferred file format (e.g., CSV, Excel).
+These filters help you dig deeper into performance and identify areas of improvement.
 
-### 8. **Getting Help and Further Guidance**
-If you're new to the **Trend Analytics** page or need additional assistance with any of the features, you can access the **Help Center** for support. Our team is available to guide you through the platform and ensure you make the most of your data insights.
+## Adjusting Bid Strategies
 
-For further details, you can refer to related pages:
+With the insights gained from **Trend Analytics**, you can adjust your bid strategies:
 
-- [Trend Analytics Product Details](performance-analysis-setting-goals/trend-analytics-product-details.md)
-- [Setting Store-Level Goals](ad-strategies/store-level-goals.md)
-- [Performance Trends Report](reports/performance-trends-report.md)
+- **Increase bids** for high-performing products or ad groups.
+- **Decrease bids** for underperforming ones.
 
----
+By linking **Trend Analytics** with your bid management, you can make data-driven decisions to improve your overall return on ad spend (ROAS).
 
-**Next Steps**
-Once you've familiarized yourself with **Trend Analytics**, explore the following next steps to deepen your campaign management:
+## Exporting Your Data
+
+Need to share or further analyze your data? **Trend Analytics** allows you to export your performance data:
+
+- **Export data** to CSV or Excel.
+- Use this data for deeper analysis or reporting to stakeholders.
+
+## Next Steps
+
+Once you've familiarized yourself with **Trend Analytics**, you can proceed with the following to deepen your campaign management:
 
 1. [Setting Store-Level Goals](ad-strategies/store-level-goals.md)
-2. [Trend Analytics Product Details](performance-analysis-setting-goals/trend-analytics-product-details.md)
-3. [Performance Trends Report](reports/performance-trends-report.md)
+2. [Setting Product-Level Goals](ad-strategies/product-level-goals.md)
+3. [Trend Analytics Product Details](performance-analysis-setting-goals/trend-analytics-product-details.md)
 
 ---
 
-If you have any questions or need further assistance, feel free to reach out to our support team or schedule a meeting with our experts. We're here to help you succeed!
+For more assistance, feel free to reach out to our support team or book an onboarding session with our Customer Success Team. We're here to help you make the most of your advertising campaigns!

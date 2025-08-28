@@ -20,6 +20,7 @@ nav:
     - 'Main Page': 'index.md'
     - 'Why Eva': 'why-eva.md'
   - 'Getting Started':
+    - 'Creating Your Eva Account': 'getting-started/creating-your-eva-account.md'  
     - 'Connecting Your Amazon Store': 'getting-started/connecting-your-amazon-store.md'
     - 'Connecting Your Ad Account': 'getting-started/connecting-your-ad-account.md'
   - 'Performance & Goal Setting':
@@ -40,7 +41,7 @@ nav:
   - 'Subscription Management':
     - 'Managing Your Plan': 'scaleads-subscription/managing-your-plan.md'
     - 'Dedicated Support': 'scaleads-subscription/dedicated-support.md'
-    
+
 # Ekstralar ve eklentiler.
 markdown_extensions:
   - admonition

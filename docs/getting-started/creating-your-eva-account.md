@@ -15,18 +15,15 @@ Welcome to Eva! Follow the steps below to create your account and begin your jou
 1. After creating your Eva account, you will be redirected to a confirmation page. Please check the email address you used to register and verify your account.
 
 2. You will receive a verification email with the subject “Confirm Your Email Address.” Click on the "Confirm My Email Address" button in the email to complete the verification.
-
    ![Screenshot for Verification Email](verification-email-screenshot.png)  <!-- Screenshot for verification email -->
 
 ## Step 3: Log In To Your Eva Account
 1. Once your email is confirmed, you will be redirected to a "Thank You" page, where you can click the “Login” button.
 
 2. Alternatively, visit the [Eva Login Page](https://iapp.eva.guru/login) and log in with your verified credentials.
-
    ![Screenshot for Login Page](login-page-screenshot.png)  <!-- Screenshot for login page -->
 
 3. Don't forget to book an onboarding call with our Customer Success Team by using the “Chat with us” button. Our team will guide you through the platform and discuss how Eva can benefit your business.
-
    ![Screenshot for Chat with Us](chat-with-us-button-screenshot.png)  <!-- Screenshot for Chat with Us button -->
 
 ## Accessing Your Eva Account

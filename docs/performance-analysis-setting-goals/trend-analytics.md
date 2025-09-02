@@ -6,10 +6,10 @@ Welcome to the **Trend Analytics** page! This tool provides a detailed, time-bas
 
 When you access the **Trend Analytics** page, you will see a variety of key metrics displayed, which are critical to understanding your ad organic and advertising performance such as:
 
-1. **ACoS (Advertising Cost of Sales)**, **TACoS (Total Advertising Cost of Sales)**, **Total Sales**  **Ad Driven Sales**, **Total Cost**, **Advertising Cost**
+**ACoS (Advertising Cost of Sales)**, **TACoS (Total Advertising Cost of Sales)**, **Total Sales**  **Ad Driven Sales**, **Total Cost**, **Advertising Cost**, ...
 
 
-These metrics are displayed in tabular format and also used for filtering the data displayed on the charts. You can filter your campaigns, time ranges, and performance metrics to get insights tailored to your needs. To view a full list of all metrics and definitions, refer to the [Trend Analytics Metrics Details](trend-analytics-metrics-details.md).
+These metrics are displayed in the table and also used for filtering the data displayed on the charts. You can filter your campaigns, time ranges, and performance metrics to get insights tailored to your needs. To view a full list of all metrics and definitions, refer to the [Trend Analytics Metrics Details](trend-analytics-metrics-details.md).
 
 ## Analyzing Trends
 

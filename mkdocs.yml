@@ -24,14 +24,14 @@ nav:
     - 'Connecting Your Amazon Store': 'getting-started/connecting-your-amazon-store.md'
     - 'Connecting Your Ad Account': 'getting-started/connecting-your-ad-account.md'
   - 'Performance & Goal Setting':
-  - 'Trend Analytics':
-    - 'Overview': 'performance-analysis-setting-goals/trend-analytics.md'  
-    - 'Tracking Performance via Dynamic Chart': 'performance-analysis-setting-goals/dynamic-chart.md'  
-    - 'Viewing Product Performance in an Interactive Table ': 'performance-analysis-setting-goals/products.md'  
-    - 'Custom Product Tagging': 'performance-analysis-setting-goals/custom-tagging.md'  
-    - 'Advenced Product Filtering': 'performance-analysis-setting-goals/product-filtering.md'  
-  - 'Trend Analytics Product Details': 'performance-analysis-setting-goals/trend-analytics-product-details.md'
-  - 'Metrics': 'performance-analysis-setting-goals/metrics.md'
+    - 'Trend Analytics': # Bu başlık bir alt bölüm haline getirildi.
+        - 'Overview': 'performance-analysis-setting-goals/trend-analytics.md'
+        - 'Dynamic Chart': 'performance-analysis-setting-goals/dynamic-chart.md'
+        - 'Interactive Table': 'performance-analysis-setting-goals/products.md'
+        - 'Custom Product Tagging': 'performance-analysis-setting-goals/custom-tagging.md'
+        - 'Advanced Product Filtering': 'performance-analysis-setting-goals/product-filtering.md' # 'Advenced' yazım hatası düzeltildi.
+    - 'Product Details': 'performance-analysis-setting-goals/trend-analytics-product-details.md' # Doğru başlık altına taşındı.
+    - 'Metrics': 'performance-analysis-setting-goals/metrics.md' # Doğru başlık altına taşındı.
   - 'Ad Strategies':
     - 'Setting Store-Level Goals': 'ad-strategies/store-level-goals.md'
     - 'Setting Product-Level Goals': 'ad-strategies/product-level-goals.md'
